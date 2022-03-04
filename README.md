@@ -1,0 +1,2 @@
+# 2dgitignore
+ignore lisätty
